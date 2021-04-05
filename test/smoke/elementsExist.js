@@ -1,5 +1,5 @@
-import sel from '../data/selectors';
-import exp from '../data/expected.json';
+import sel from '../../data/selectors';
+import exp from '../../data/expected.json';
 
 describe('My Little Hero', function () {
 
